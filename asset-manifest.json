@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/flint-water-project/static/css/main.5f361e03.chunk.css",
-    "main.js": "/flint-water-project/static/js/main.cc820515.chunk.js",
-    "main.js.map": "/flint-water-project/static/js/main.cc820515.chunk.js.map",
+    "main.css": "/flint-water-project/static/css/main.10e6f931.chunk.css",
+    "main.js": "/flint-water-project/static/js/main.cd65447a.chunk.js",
+    "main.js.map": "/flint-water-project/static/js/main.cd65447a.chunk.js.map",
     "runtime-main.js": "/flint-water-project/static/js/runtime-main.304fa5b5.js",
     "runtime-main.js.map": "/flint-water-project/static/js/runtime-main.304fa5b5.js.map",
-    "static/js/2.7d61d6a5.chunk.js": "/flint-water-project/static/js/2.7d61d6a5.chunk.js",
-    "static/js/2.7d61d6a5.chunk.js.map": "/flint-water-project/static/js/2.7d61d6a5.chunk.js.map",
+    "static/js/2.8cc8473c.chunk.js": "/flint-water-project/static/js/2.8cc8473c.chunk.js",
+    "static/js/2.8cc8473c.chunk.js.map": "/flint-water-project/static/js/2.8cc8473c.chunk.js.map",
     "index.html": "/flint-water-project/index.html",
-    "precache-manifest.88fa34730a4e785f501ac3a15ac45cf1.js": "/flint-water-project/precache-manifest.88fa34730a4e785f501ac3a15ac45cf1.js",
+    "precache-manifest.5bc624854b9cc7b539ec1b77fe2099b9.js": "/flint-water-project/precache-manifest.5bc624854b9cc7b539ec1b77fe2099b9.js",
     "service-worker.js": "/flint-water-project/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/flint-water-project/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7d61d6a5.chunk.js.LICENSE.txt": "/flint-water-project/static/js/2.7d61d6a5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/flint-water-project/static/media/logo.5d5d9eef.svg"
+    "static/css/main.10e6f931.chunk.css.map": "/flint-water-project/static/css/main.10e6f931.chunk.css.map",
+    "static/js/2.8cc8473c.chunk.js.LICENSE.txt": "/flint-water-project/static/js/2.8cc8473c.chunk.js.LICENSE.txt",
+    "static/media/gal.png": "/flint-water-project/static/media/gal.18958dda.png",
+    "static/media/minerallayer.png": "/flint-water-project/static/media/minerallayer.e5dc698e.png",
+    "static/media/minerallayer2.png": "/flint-water-project/static/media/minerallayer2.ecaf4a18.png"
   },
   "entrypoints": [
     "static/js/runtime-main.304fa5b5.js",
-    "static/js/2.7d61d6a5.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.cc820515.chunk.js"
+    "static/js/2.8cc8473c.chunk.js",
+    "static/css/main.10e6f931.chunk.css",
+    "static/js/main.cd65447a.chunk.js"
   ]
 }
