@@ -4,21 +4,35 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+    <div>
+
+
+      //navbar
+      <div class="sidenav">
+        <a href="#top">Top</a>
+        <br/>
+        <a href="#about">About</a>
+      </div>
+
+
+      //main body
+      <div class="main">
+
+        <a name="top"></a>
+
+        <h1 style={{fontSize: "3.7vmin"}}>The Flint Water Crisis</h1>
+        <h1 style={{fontSize: "2vmin"}}>Will Baumgartner and Alex Schwartz</h1>
+
+        <br/>
+        <br/>
+        
+        <a name="about">
+          <h1 style={{fontSize: "40px", textDecoration: "underline"}}>About</h1>
         </a>
-      </header>
+      </div>
+
+
+
     </div>
   );
 }
