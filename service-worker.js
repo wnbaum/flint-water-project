@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/flint-water-project/precache-manifest.e4805dbf97f7af53486d59ba0ae00f60.js"
+  "/flint-water-project/precache-manifest.88fa34730a4e785f501ac3a15ac45cf1.js"
 );
 
 self.addEventListener('message', (event) => {
