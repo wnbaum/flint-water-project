@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/flint-water-project/static/css/main.5f361e03.chunk.css",
+    "main.js": "/flint-water-project/static/js/main.4f11ce4c.chunk.js",
+    "main.js.map": "/flint-water-project/static/js/main.4f11ce4c.chunk.js.map",
+    "runtime-main.js": "/flint-water-project/static/js/runtime-main.304fa5b5.js",
+    "runtime-main.js.map": "/flint-water-project/static/js/runtime-main.304fa5b5.js.map",
+    "static/js/2.6f9e70aa.chunk.js": "/flint-water-project/static/js/2.6f9e70aa.chunk.js",
+    "static/js/2.6f9e70aa.chunk.js.map": "/flint-water-project/static/js/2.6f9e70aa.chunk.js.map",
+    "index.html": "/flint-water-project/index.html",
+    "precache-manifest.e4805dbf97f7af53486d59ba0ae00f60.js": "/flint-water-project/precache-manifest.e4805dbf97f7af53486d59ba0ae00f60.js",
+    "service-worker.js": "/flint-water-project/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/flint-water-project/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6f9e70aa.chunk.js.LICENSE.txt": "/flint-water-project/static/js/2.6f9e70aa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/flint-water-project/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.304fa5b5.js",
+    "static/js/2.6f9e70aa.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4f11ce4c.chunk.js"
+  ]
+}
